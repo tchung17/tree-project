@@ -1,0 +1,167 @@
+commit 7e9c69651b280fb4ac2687e1a5c175117541cc17
+Author: Timothy Chung <ipf1920@ugrad17.cs.jhu.edu>
+Date:   Fri Nov 8 16:09:34 2019 -0500
+
+    final
+
+commit 270ea3a677f6a3f89295d8bf56606545dbf8d1de
+Author: Timothy Chung <ipf1920@ugrad17.cs.jhu.edu>
+Date:   Fri Nov 8 13:04:55 2019 -0500
+
+    toString update
+
+commit 8351ca3ccc3369fd8b6f1e8f6e6fb07c37378905
+Author: Timothy Chung <ipf1920@ugrad17.cs.jhu.edu>
+Date:   Fri Nov 8 13:01:59 2019 -0500
+
+    valgrind debugged
+
+commit 92f6ad1d2533c8011972c94714b0b2a61cf24215
+Author: Timothy Chung <ipf1920@ugrad17.cs.jhu.edu>
+Date:   Fri Nov 8 10:59:42 2019 -0500
+
+    CTree basically done
+
+commit 358c3f1459cb57536e6454da6e781674ce0dee38
+Author: Timothy Chung <ipf1920@ugrad17.cs.jhu.edu>
+Date:   Thu Nov 7 20:36:46 2019 -0500
+
+    first working CTree.cpp
+
+commit 334a145ee17d984d590d3f58488f5b59c9f3906c
+Author: Timothy Chung <ipf1920@ugrad17.cs.jhu.edu>
+Date:   Mon Oct 28 18:24:37 2019 -0400
+
+    final?
+
+commit 698d67bd70b630aa2a9be61cf1bc377eb392e488
+Author: Timothy Chung <ipf1920@ugrad17.cs.jhu.edu>
+Date:   Mon Oct 28 15:38:26 2019 -0400
+
+    first fully functional version
+
+commit 0f90eb9d63815812ee763587bc8cf9b61ea51a96
+Author: Timothy Chung <ipf1920@ugrad17.cs.jhu.edu>
+Date:   Mon Oct 28 14:56:30 2019 -0400
+
+    push to make updating header file easier
+
+commit 4c06e9bd55e8ccfe7384d81ad62ba9fbb4efc668
+Author: Timothy Chung <ipf1920@ugrad17.cs.jhu.edu>
+Date:   Mon Oct 28 13:59:20 2019 -0400
+
+    added counting functionality
+
+commit 5de3c2ec617166e2d859746f58384196d94bcef6
+Author: Timothy Chung <ipf1920@ugrad17.cs.jhu.edu>
+Date:   Sun Oct 27 22:33:10 2019 -0400
+
+    added q functionality
+
+commit 017f4f98bc69cb7b23f67118af3dc19ec57e1a00
+Author: Timothy Chung <ipf1920@ugrad17.cs.jhu.edu>
+Date:   Sun Oct 27 16:18:15 2019 -0400
+
+    non working intermediate version
+
+commit f15ab318bd9a17afbf1338945e09a8f5586015a3
+Author: Timothy Chung <ipf1920@ugrad17.cs.jhu.edu>
+Date:   Sun Oct 27 15:02:13 2019 -0400
+
+    finally compiles
+
+commit 837244b1833d4ac1867437c9ce405846ab7fc6ea
+Author: Timothy Chung <ipf1920@ugrad17.cs.jhu.edu>
+Date:   Sun Oct 27 14:00:01 2019 -0400
+
+    removed using
+
+commit 832c2d71f5c0648edb6a13b4157c1b1d6e008328
+Author: Timothy Chung <ipf1920@ugrad17.cs.jhu.edu>
+Date:   Sun Oct 27 13:51:44 2019 -0400
+
+    non compiling attempt
+
+commit bc9bbec68a78ca1ae3eac9217110741fe68429cd
+Author: Timothy Chung <ipf1920@ugrad17.cs.jhu.edu>
+Date:   Sat Oct 26 18:46:59 2019 -0400
+
+    first attempt at main
+
+commit fd774f2c59847c3330a667b20089daac1b6d249e
+Author: Timothy Chung <ipf1920@ugrad17.cs.jhu.edu>
+Date:   Thu Sep 12 21:06:38 2019 -0400
+
+    finally done..
+
+commit 73792fc9e16a9363c9041897faa76fff5d342776
+Author: Timothy Chung <ipf1920@ugrad17.cs.jhu.edu>
+Date:   Thu Sep 12 21:00:05 2019 -0400
+
+    finally done?
+
+commit df968f85460e3185f7a9fc181547095627ee69c7
+Author: Timothy Chung <ipf1920@ugrad17.cs.jhu.edu>
+Date:   Thu Sep 12 20:55:40 2019 -0400
+
+    final changes
+
+commit 0fa79e83fbe5d88b3d918cbdfd4021a8119d7f03
+Author: Timothy Chung <ipf1920@ugrad17.cs.jhu.edu>
+Date:   Thu Sep 12 16:10:30 2019 -0400
+
+    fixed scanner == 1
+
+commit 17219ca434298167d386ab39d7bb36b10be2793d
+Author: Timothy Chung <ipf1920@ugrad17.cs.jhu.edu>
+Date:   Thu Sep 12 16:03:31 2019 -0400
+
+    fixed, close to completion
+
+commit eaeb8dfad39edb38b27ab3061a835a353c829b4b
+Author: Timothy Chung <ipf1920@ugrad17.cs.jhu.edu>
+Date:   Wed Sep 11 19:08:08 2019 -0400
+
+    working arithmetic.c
+
+commit 3f7ec297771cf9d83e73f849d115d89b0333fa5c
+Author: Timothy Chung <ipf1920@ugrad17.cs.jhu.edu>
+Date:   Wed Sep 11 12:03:03 2019 -0400
+
+    successfully compiled arithmetic.c
+
+commit afea3a67f6361ee9a0dce988066a2b28e046ee6b
+Author: Timothy Chung <ipf1920@ugrad17.cs.jhu.edu>
+Date:   Tue Sep 10 14:17:16 2019 -0400
+
+    created arithmetic.c, started coding
+
+commit 47f34ee23540c39dd40c25df1d0ec2a62532c025
+Author: Timothy Chung <ipf1920@ugrad17.cs.jhu.edu>
+Date:   Thu Sep 5 21:39:48 2019 -0400
+
+    created third.c
+
+commit 098ecb1f62d7f389ed6e6b1e02f964514c95da2f
+Author: Timothy Chung <ipf1920@ugrad17.cs.jhu.edu>
+Date:   Thu Sep 5 21:39:23 2019 -0400
+
+    created second.c
+
+commit 1265df2a02903b52630cc83e5ca4028e99ce82b2
+Author: Timothy Chung <ipf1920@ugrad17.cs.jhu.edu>
+Date:   Thu Sep 5 21:35:33 2019 -0400
+
+    created first.c
+
+commit 6ebafa249a1ffa160b005323de650679183af0a3
+Author: Timothy Chung <ipf1920@ugrad17.cs.jhu.edu>
+Date:   Wed Sep 4 14:07:58 2019 -0400
+
+    updated README
+
+commit 8bf14c07556f890591435180aa786e9aabdc106d
+Author: Timothy Chung <ipf1920@ugrad17.cs.jhu.edu>
+Date:   Wed Sep 4 13:07:12 2019 -0400
+
+    created README

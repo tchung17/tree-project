@@ -1,0 +1,7 @@
+Timothy Chung
+tchung17
+Did not add any additional helper functions
+Smaller addChild/addSibling functions creates new Tree, and passes the tree to the larger respective function
+If the child to be added to the right, the addChild calls addSibling on an existing sibling
+Found trick to make Makefile easier for two files
+Used stringstream for toString
